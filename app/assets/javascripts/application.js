@@ -12,5 +12,6 @@
 //
 //= require jquery
 //= require bootstrap-sprockets
+// you could remove the line above so that page loads are faster
 //= require jquery_ujs
 //= require_tree .
